@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to create a Medibox using an ESP32 microcontroller to remind users to take their medicine on time. It includes various functionalities such as setting time zones, alarms, disabling alarms, fetching time from NTP server, ringing alarms, and monitoring temperature and humidity levels.
+This project aims to create a Medibox using an ESP32 microcontroller to remind users to take their medicine on time. It includes various functionalities such as setting time zones, alarms, disabling alarms, fetching time from NTP server, ringing alarms, and monitoring temperature and humidity levels. Additionally, a custom printed circuit board (PCB) was designed and fabricated using EasyEDA to enhance the system's functionality and reliability.
 
 <img src="product.jpg" alt="Final_Product" width="600"/>
 
