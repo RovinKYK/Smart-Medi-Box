@@ -1,20 +1,3 @@
-/*
-------------------------------------------
-EN2853: Embedded Systems and Applications
-Programming Assignment 1
-------------------------------------------
-Rovin K.Y.K. - 200543U
---------------------------------------------------------------------------------------------------------------------------
-Modifications done
-
-1.print_time_now() function updated to avoid blinking of unchanged digits of time
-2.Tone added when starting the medibox
-3.Extra LED added for warnings of unhealthy humidity and temperature values
-4.Beep sound added to notify such situations
-5.Code to keep time without using wifi, using millis() function also included(commented) for completeness 
---------------------------------------------------------------------------------------------------------------------------
-*/
-
 #include <Wire.h>
 #include <WiFi.h>
 #include <Adafruit_GFX.h>
