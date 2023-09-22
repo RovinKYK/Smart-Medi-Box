@@ -4,7 +4,7 @@
 
 This project aims to create a Medibox using an ESP32 microcontroller to remind users to take their medicine on time. It includes various functionalities such as setting time zones, alarms, disabling alarms, fetching time from NTP server, ringing alarms, and monitoring temperature and humidity levels.
 
-![Medibox Image](circuit_diagram.jpg)
+<img src="product.jpg" alt="Final_Product" width="200"/>
 
 ## Functionality
 
@@ -39,14 +39,14 @@ The simulation of this project was initially done on Wokwi. The code and simulat
 - Adafruit SSD1306 OLED display
 - Buzzer
 
-![PCB _3d_view](pcb_design.jpg)
-
 ## Usage
 
 To run this project, follow these steps:
 
 1. [Connect the hardware components as per the circuit diagram or design a pcb]
-2. [Clone or download the repository]
-3. [Upload the code to your ESP32 board]
+   <img src="circuit_diagram.jpg" alt="Medibox_Image" width="200"/>
+   <img src="pcb_design.jpg" alt="PCB _3d_view" width="200"/>
+3. [Clone or download the repository]
+4. [Upload the code to your ESP32 board]
 
-![Final_Product](product.jpg)
+
